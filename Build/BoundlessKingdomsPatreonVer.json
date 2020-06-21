@@ -3,7 +3,7 @@
 "productName": "BoundlessKingdomsRPG",
 "productVersion": "0.2a",
 "dataUrl": "BoundlessKingdomsPatreonVer.data.unityweb",
-"wasmCodeUrl": "BoundlessKingdomsPatreonVer.wasm",
+"wasmCodeUrl": "BoundlessKingdomsPatreonVer.wasm.code.unityweb",
 "wasmFrameworkUrl": "BoundlessKingdomsPatreonVer.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
